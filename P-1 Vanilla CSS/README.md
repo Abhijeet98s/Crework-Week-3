@@ -11,3 +11,6 @@
 ## Desktop View:
 ![](./screenshot/week-3.png)
 
+## Mobile View-(max-width:375px):
+![](./screenshot/week-3-mobile-view.png)
+
